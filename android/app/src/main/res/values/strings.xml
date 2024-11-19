@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">APL Checker Nationwide</string>
+    <string name="title_activity_main">APL Checker Nationwide</string>
+    <string name="package_name">com.joonspa.siwon2024</string>
+    <string name="custom_url_scheme">com.joonspa.siwon2024</string>
+</resources>

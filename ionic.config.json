@@ -1,0 +1,7 @@
+{
+  "name": "APL Checker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
